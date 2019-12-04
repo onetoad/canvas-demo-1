@@ -1,5 +1,5 @@
 # canvas-demo-1
-## 预览地址：
+## 在线预览
 https://onetoad.github.io/canvas-demo-1/
 
 ## 本地预览
